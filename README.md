@@ -52,7 +52,7 @@ git clone https://github.com/bgpark82/musinsa
 cd musinsa
 ```
 
-3프로젝트를 빌드하고 실행합니다.
+3. 프로젝트를 빌드하고 실행합니다.
 
 ```
 ./gradlew bootRun
@@ -125,7 +125,9 @@ Exception
   
 
 ## 요구사항
-도메인 사전
+**도메인 사전**
+
+RecommendHistory
 
 | 한글명 | 영문명 | 설명                |
 | --- | --- |-------------------|
