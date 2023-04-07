@@ -1,0 +1,9 @@
+### 상품 추천 시, 추천 히스토리를 기록한다
+POST http://localhost:8080/musinsa/recommendation
+Content-Type: application/json
+
+{
+  "name": "김무신사",
+  "gender": "MALE",
+  "email": "kimmusinsa@musinsa.com"
+}
